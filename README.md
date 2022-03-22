@@ -39,4 +39,9 @@ ScreenShots of app
 
 <h3 align="center">Splash Screen</h3>
 
-<img align="right" alt="Splash" width="400" height="300" src="C:\Users\ASUS\OneDrive\Pictures\Screenshots\splash" />
+![splash](https://user-images.githubusercontent.com/85060586/159413500-81f87984-2b63-4717-ba71-eafbdd3e64ed.png)
+![main](https://user-images.githubusercontent.com/85060586/159413393-7d5e7fed-db8f-4a5b-8ebc-6dd5cfe48665.png)
+![gamepage1](https://user-images.githubusercontent.com/85060586/159413522-96fc5a1c-69e4-432e-89e7-78f09a48c2e4.png)
+![gamepage2](https://user-images.githubusercontent.com/85060586/159413545-7d8d114d-5452-409e-ab16-30d30ef59bbd.png)
+![results](https://user-images.githubusercontent.com/85060586/159413571-097ef7b6-5e28-4347-a4a4-b67ea0bbfb90.png)
+
