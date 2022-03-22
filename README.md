@@ -35,9 +35,8 @@ Examples of invalid arithmetic expressions are:
 As soon as the user submits the answer, the message CORRECT! (in green colour) or the
 message WRONG! (in red colour) appears on the screen.
 
-ScreenShots of app
 
-<h3 align="center">Splash Screen</h3>
+<h3 align="center">ScreenShots of app</h3>
 
 ![splash](https://user-images.githubusercontent.com/85060586/159413500-81f87984-2b63-4717-ba71-eafbdd3e64ed.png)
 ![main](https://user-images.githubusercontent.com/85060586/159413393-7d5e7fed-db8f-4a5b-8ebc-6dd5cfe48665.png)
