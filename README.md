@@ -1,4 +1,4 @@
-# Andriod-CW
+# Andriod-Coursework
 
 - This is the CW of the mobile module were you are excepted to make a game which players will be using to practice their
 arithmetic calculative skills.
@@ -39,4 +39,4 @@ ScreenShots of app
 
 <h3 align="center">Splash Screen</h3>
 
-<img align="right" alt="Splash" width="400" height="300" src="C:\Users\ASUS\OneDrive\Pictures\Screenshots" />
+<img align="right" alt="Splash" width="400" height="300" img src="C:\Users\ASUS\OneDrive\Pictures\Screenshots" />
