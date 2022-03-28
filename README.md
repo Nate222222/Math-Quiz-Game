@@ -1,4 +1,4 @@
-# Andriod-Coursework
+# Math Quiz Game
 
 - This is the CW of the mobile module were you are excepted to make a game which players will be using to practice their
 arithmetic calculative skills.
